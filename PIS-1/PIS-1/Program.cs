@@ -10,6 +10,8 @@ namespace PIS_1
         static void Main(string[] args)
         {
             Console.WriteLine ("nestooooo");
+            Console.WriteLine ("najnovije izmjene");
+            
         }
     }
 }
